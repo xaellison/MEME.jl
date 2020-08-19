@@ -1,3 +1,4 @@
+#Copyright 2020 Alexander Ellison
 using Logging
 using Primes
 using Test

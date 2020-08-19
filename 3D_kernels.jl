@@ -1,3 +1,4 @@
+#Copyright 2020 Alexander Ellison
 #using CUDAdrv, CUDAnative, CuArrays
 #CuArrays.allowscalar(false)
 using CUDA

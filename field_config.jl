@@ -1,4 +1,4 @@
-
+#Copyright 2020 Alexander Ellison
 function PML(η, Δx, dimensions, periodicity, thickness, m=3, R=10^-6)
     # TODO this implementation is lazy and slow
     unit_E = η / Δx
