@@ -1,3 +1,4 @@
+#Copyright 2020 Alexander Ellison
 include("3D_kernels.jl")
 include("grid_maker.jl")
 include("field_config.jl")
